@@ -16,14 +16,30 @@
   color: #FD6E0A;
 }
 
+.btn-primary-contact{
+
+  /* background-color: white */
+  
+  /* #FD6E0A; */
+  font-weight: bold;
+  font-size: 20px;
+  color: #FD6E0A;
+  border: 5px;
+  border-top-left-radius: 5px;
+  padding: 18px 35px;
+  border-radius: 5px;
+  margin-bottom: 24px;
+
+
+}
+
 .btn-primary{
 
   background-color: #FD6E0A;
   font-weight: bold;
   font-size: 20px;
   color: white;
-  border: none
-  ;
+  border: none;
   padding: 18px 35px;
   border-radius: 5px;
 
